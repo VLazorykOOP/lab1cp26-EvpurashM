@@ -1,6 +1,6 @@
 package Lab3;
-import java.util.ArrayList;
-import java.util.List;
+
+
 
 // Типи студентів
 enum StudType {
